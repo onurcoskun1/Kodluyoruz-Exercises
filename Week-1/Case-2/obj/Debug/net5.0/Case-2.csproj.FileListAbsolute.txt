@@ -1,0 +1,16 @@
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\bin\Debug\net5.0\Case-2.exe
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\bin\Debug\net5.0\Case-2.deps.json
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\bin\Debug\net5.0\Case-2.runtimeconfig.json
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\bin\Debug\net5.0\Case-2.runtimeconfig.dev.json
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\bin\Debug\net5.0\Case-2.dll
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\bin\Debug\net5.0\ref\Case-2.dll
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\bin\Debug\net5.0\Case-2.pdb
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\obj\Debug\net5.0\Case-2.csproj.AssemblyReference.cache
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\obj\Debug\net5.0\Case-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\obj\Debug\net5.0\Case-2.AssemblyInfoInputs.cache
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\obj\Debug\net5.0\Case-2.AssemblyInfo.cs
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\obj\Debug\net5.0\Case-2.csproj.CoreCompileInputs.cache
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\obj\Debug\net5.0\Case-2.dll
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\obj\Debug\net5.0\ref\Case-2.dll
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\obj\Debug\net5.0\Case-2.pdb
+C:\Users\Poseidon\Desktop\Exercises\Week-1\Case-2\obj\Debug\net5.0\Case-2.genruntimeconfig.cache
